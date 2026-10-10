@@ -1,0 +1,108 @@
+print_index	printed_glyph	lookup_variant	code	reencoded_kana	reencoded_roman	expected_start	source_start	source_end	raw_source	raw_exact	edit_events	status
+1	黃		7806	ソカホ	sokaho	0	0	6	sokaho	True		diagnostic_global_alignment_not_source_emendation
+2	克		0344	カエタ	kaeta	6	6	11	kaeta	True		diagnostic_global_alignment_not_source_emendation
+3	強		1730	ラコツ	rakotsu	11	11	18	rakotsu	True		diagnostic_global_alignment_not_source_emendation
+4	先		0341	カアタ	kaata	18	18	23	kaata	True		diagnostic_global_alignment_not_source_emendation
+5	生		3932	ウイチ	uichi	23	23	28	uichi	True		diagnostic_global_alignment_not_source_emendation
+6	鑒		7003	レウホ	reuho	28	28	33	reuho	True		diagnostic_global_alignment_not_source_emendation
+7	奉		1144	ハエタ	haeta	33	33	38	haeka	False	sub:expected36:source36	diagnostic_global_alignment_not_source_emendation
+8	刪	删	0444	サエハ	saeha	38	38	43	saeha	True		diagnostic_global_alignment_not_source_emendation
+9	電		7193	レウサ	reusa	43	43	48	reusa	True		diagnostic_global_alignment_not_source_emendation
+10	知		4249	スケハ	sukeha	48	48	54	sukeha	True		diagnostic_global_alignment_not_source_emendation
+11	我		2053	イウノ	iuno	54	54	54		False	missing_from_source:expected54:sourceNone;missing_from_source:expected55:sourceNone;missing_from_source:expected56:sourceNone;missing_from_source:expected57:sourceNone	diagnostic_global_alignment_not_source_emendation
+12	公		0361	カアセ	kaase	58	54	59	kaase	True		diagnostic_global_alignment_not_source_emendation
+13	抵		2107	イキト	ikito	63	59	64	ikito	True		diagnostic_global_alignment_not_source_emendation
+14	日		2480	シコヌ	shikonu	68	64	71	shikonu	True		diagnostic_global_alignment_not_source_emendation
+15	歡		2970	ニコセ	nikose	75	71	77	nikose	True		diagnostic_global_alignment_not_source_emendation
+16	躍		6460	ネコノ	nekono	81	77	83	nekono	True		diagnostic_global_alignment_not_source_emendation
+17	逾		6661	ヘアネ	heane	87	83	88	heane	True		diagnostic_global_alignment_not_source_emendation
+18	恆		1854	ワエノ	waeno	92	88	93	waeno	True		diagnostic_global_alignment_not_source_emendation
+19	堯		1031	ハアヒ	haahi	97	93	98	haahi	True		diagnostic_global_alignment_not_source_emendation
+20	等		4583	ツウシ	tsuushi	102	98	105	tsuushi	True		diagnostic_global_alignment_not_source_emendation
+21	碌		4294	スエナ	suena	109	105	110	suena	True		diagnostic_global_alignment_not_source_emendation
+22	碌		4294	スエナ	suena	114	110	115	suena	True		diagnostic_global_alignment_not_source_emendation
+23	庸		1661	ラアネ	raane	119	115	120	raane	True		diagnostic_global_alignment_not_source_emendation
+24	才		2088	イクニ	ikuni	124	120	125	ikuni	True		diagnostic_global_alignment_not_source_emendation
+25	勉		0517	サキテ	sakite	129	125	131	sakite	True		diagnostic_global_alignment_not_source_emendation
+26	起		6386	テカシ	tekashi	135	131	138	tekassi	False	sub:expected140:source136	diagnostic_global_alignment_not_source_emendation
+27	討		6062	セイネ	seine	142	138	143	seina	False	sub:expected146:source142	diagnostic_global_alignment_not_source_emendation
+28	賊		6329	テケツ	teketsu	147	143	150	teketsu	True		diagnostic_global_alignment_not_source_emendation
+29	正		2973	ニウス	niusu	154	150	155	niusu	True		diagnostic_global_alignment_not_source_emendation
+30	憂		1992	ワイサ	waisa	159	155	161	waishi	False	extra_in_source:expected163:source159;sub:expected163:source160	diagnostic_global_alignment_not_source_emendation
+31	綆		4837	フキヒ	fukihi	164	161	167	fukihi	True		diagnostic_global_alignment_not_source_emendation
+32	短		4252	スイノ	suino	170	167	172	suino	True		diagnostic_global_alignment_not_source_emendation
+33	適		6684	ヘエニ	heeni	175	172	179	he[e]ni	False	extra_in_source:expected177:source174;extra_in_source:expected178:source176	diagnostic_global_alignment_not_source_emendation
+34	逢		6646	ヘカハ	hekaha	180	179	185	hekawa	False	sub:expected184:source183	diagnostic_global_alignment_not_source_emendation
+35	公		0361	カアセ	kaase	186	185	190	kaase	True		diagnostic_global_alignment_not_source_emendation
+36	歸		2981	ニアシ	niashi	191	190	196	neashi	False	sub:expected192:source191	diagnostic_global_alignment_not_source_emendation
+37	願		7349	ヱケタ	eketa	197	196	201	eketa	True		diagnostic_global_alignment_not_source_emendation
+38	承		2110	イコト	ikoto	202	201	207	ikotto	False	extra_in_source:expected205:source204	diagnostic_global_alignment_not_source_emendation
+39	不		0008	アクホ	akuho	207	207	213	akusho	False	extra_in_source:expected210:source210	diagnostic_global_alignment_not_source_emendation
+40	遺		6695	ヘオナ	heona	212	213	218	keona	False	sub:expected212:source213	diagnostic_global_alignment_not_source_emendation
+41	俯		0214	カエヘ	kaehe	217	218	223	kaehe	True		diagnostic_global_alignment_not_source_emendation
+42	賜		6337	テキチ	tekichi	222	223	230	tekichi	True		diagnostic_global_alignment_not_source_emendation
+43	教		2403	シウホ	shiuho	229	230	235	kiano	False	missing_from_source:expected229:sourceNone;sub:expected230:source230;sub:expected232:source232;sub:expected233:source233	diagnostic_global_alignment_not_source_emendation
+44	言		6056	セカノ	sekano	235	235	244	iusukaase	False	extra_in_source:expected235:source235;extra_in_source:expected235:source236;sub:expected236:source238;extra_in_source:expected238:source240;sub:expected239:source242;sub:expected240:source243	diagnostic_global_alignment_not_source_emendation
+45	首		7445	オオハ	ooha	241	244	248	ooha	True		diagnostic_global_alignment_not_source_emendation
+46	倡		0235	カオヒ	kaohi	245	248	252	kaoi	False	missing_from_source:expected248:sourceNone	diagnostic_global_alignment_not_source_emendation
+47	共		0364	カエセ	kaese	250	252	257	kaese	True		diagnostic_global_alignment_not_source_emendation
+48	和		0735	タオチ	taochi	255	257	263	taochi	True		diagnostic_global_alignment_not_source_emendation
+49	富		1381	マアシ	maashi	261	263	270	niaushi	False	extra_in_source:expected261:source263;sub:expected261:source264;sub:expected263:source266	diagnostic_global_alignment_not_source_emendation
+50	有		2589	シケシ	shikeshi	267	270	278	shikeshi	True		diagnostic_global_alignment_not_source_emendation
+51	方		2455	シオノ	shiono	275	278	282	siol	False	missing_from_source:expected276:sourceNone;missing_from_source:expected279:sourceNone;sub:expected280:source281	diagnostic_global_alignment_not_source_emendation
+52	略		3970	ウコセ	ukose	281	282	287	ukose	True		diagnostic_global_alignment_not_source_emendation
+53	各		0677	タキヌ	takinu	286	287	293	tanuki	False	sub:expected288:source289;sub:expected289:source290;sub:expected290:source291;sub:expected291:source292	diagnostic_global_alignment_not_source_emendation
+54	國		0948	ナクタ	nakuta	292	293	300	nakutta	False	extra_in_source:expected296:source297	diagnostic_global_alignment_not_source_emendation
+55	情		1906	ワカト	wakato	298	300	306	wakato	True		diagnostic_global_alignment_not_source_emendation
+56	勢		0528	サクツ	sakutsu	304	306	313	sakutsu	True		diagnostic_global_alignment_not_source_emendation
+57	考		5072	ムイヌ	muinu	311	313	318	muimu	False	sub:expected314:source316	diagnostic_global_alignment_not_source_emendation
+58	察		1390	マコシ	makoshi	316	318	325	chikani	False	sub:expected316:source318;sub:expected317:source319;sub:expected318:source320;sub:expected319:source321;sub:expected320:source322;sub:expected321:source323	diagnostic_global_alignment_not_source_emendation
+59	復		1788	ラクシ	rakushi	323	325	331	rakuew	False	missing_from_source:expected327:sourceNone;sub:expected328:source329;sub:expected329:source330	diagnostic_global_alignment_not_source_emendation
+60	殷		3009	ヒケホ	hikeho	330	331	337	hikeho	True		diagnostic_global_alignment_not_source_emendation
+61	將		1412	ヤイヘ	yaihe	336	337	342	yaike	False	sub:expected339:source340	diagnostic_global_alignment_not_source_emendation
+62	來		0171	アアス	aasu	341	342	346	aasu	True		diagnostic_global_alignment_not_source_emendation
+63	內		0355	カオソ	kaoso	345	346	351	kaoso	True		diagnostic_global_alignment_not_source_emendation
+64	政		2398	キクサ	kikusa	350	351	357	kikusa	True		diagnostic_global_alignment_not_source_emendation
+65	外		1120	ハコテ	hakote	356	357	362	wakte	False	sub:expected356:source357;missing_from_source:expected359:sourceNone	diagnostic_global_alignment_not_source_emendation
+66	交		0074	アエヌ	aenu	362	362	366	aenu	True		diagnostic_global_alignment_not_source_emendation
+67	諸		6175	セオス	seosu	366	366	371	seosu	True		diagnostic_global_alignment_not_source_emendation
+68	賴		6351	テアソ	teaso	371	371	376	teaso	True		diagnostic_global_alignment_not_source_emendation
+69	指		2172	イイス	iisu	376	376	380	iisu	True		diagnostic_global_alignment_not_source_emendation
+70	導		1418	ヤクヘ	yakuhe	380	380	386	yakuhe	True		diagnostic_global_alignment_not_source_emendation
+71	大		1129	ハケツ	haketsu	386	386	393	haketsn	False	sub:expected392:source392	diagnostic_global_alignment_not_source_emendation
+72	局		1444	ヤエハ	yaeha	393	393	398	yaeha	True		diagnostic_global_alignment_not_source_emendation
+73	所		2076	イカヌ	ikanu	398	398	403	ikanu	True		diagnostic_global_alignment_not_source_emendation
+74	繫		4941	フアタ	fuata	403	403	408	fuata	True		diagnostic_global_alignment_not_source_emendation
+75	惟		1919	ワケテ	wakete	408	408	414	wakete	True		diagnostic_global_alignment_not_source_emendation
+76	公		0361	カアセ	kaase	414	414	419	kaase	True		diagnostic_global_alignment_not_source_emendation
+77	圖		0956	ナカソ	nakaso	419	419	425	nakaso	True		diagnostic_global_alignment_not_source_emendation
+78	之		0037	アキヒ	akihi	425	425	430	akihi	True		diagnostic_global_alignment_not_source_emendation
+79	唐		0781	タアシ	taashi	430	430	436	taaski	False	sub:expected434:source434	diagnostic_global_alignment_not_source_emendation
+80	繼		4949	フケタ	fuketa	436	436	442	fuketa	True		diagnostic_global_alignment_not_source_emendation
+81	堯		1031	ハアヒ	haahi	442	442	447	haahi	True		diagnostic_global_alignment_not_source_emendation
+82	岑		1478	ヤクヌ	yakunu	447	447	452	yakuu	False	missing_from_source:expected451:sourceNone	diagnostic_global_alignment_not_source_emendation
+83	春		2504	シエト	shieto	453	452	458	shiuko	False	sub:expected456:source455;sub:expected457:source456	diagnostic_global_alignment_not_source_emendation
+84	煊		3551	リアソ	riaso	459	458	463	riasa	False	sub:expected463:source462	diagnostic_global_alignment_not_source_emendation
+85	梁		2733	チウチ	chiuchi	464	463	470	ckiuchi	False	sub:expected465:source464	diagnostic_global_alignment_not_source_emendation
+86	啓		0796	タカサ	takasa	471	470	476	takasa	True		diagnostic_global_alignment_not_source_emendation
+87	超		6389	テケシ	tekeshi	477	476	483	tekeshi	True		diagnostic_global_alignment_not_source_emendation
+88	劉		0491	サアナ	saana	484	483	488	saana	True		diagnostic_global_alignment_not_source_emendation
+89	顯		7359	ヱケソ	ekeso	489	488	493	ekeso	True		diagnostic_global_alignment_not_source_emendation
+90	世		0013	アウヘ	auhe	494	493	496	aue	False	missing_from_source:expected496:sourceNone	diagnostic_global_alignment_not_source_emendation
+91	陸		7120	レコテ	rekote	498	496	502	rekote	True		diagnostic_global_alignment_not_source_emendation
+92	榮		2837	ニキヒ	nikihi	504	502	508	nikihi	True		diagnostic_global_alignment_not_source_emendation
+93	廷		1694	ラエナ	raena	510	508	513	raena	True		diagnostic_global_alignment_not_source_emendation
+94	龍		7893	ソウナ	souna	515	513	518	souna	True		diagnostic_global_alignment_not_source_emendation
+95	濟		3444	リエハ	rieha	520	518	523	rieha	True		diagnostic_global_alignment_not_source_emendation
+96	光		0342	カイタ	kaita	525	523	528	kaika	False	sub:expected528:source526	diagnostic_global_alignment_not_source_emendation
+97	呂		0712	タイテ	taite	530	528	533	taite	True		diagnostic_global_alignment_not_source_emendation
+98	公		0361	カアセ	kaase	535	533	538	kaase	True		diagnostic_global_alignment_not_source_emendation
+99	望		2598	シクサ	shikusa	540	538	545	shikusa	True		diagnostic_global_alignment_not_source_emendation
+100	蔡		5591	ルアサ	ruasa	547	545	550	ruasa	True		diagnostic_global_alignment_not_source_emendation
+101	鍔		6948	メクタ	mekuta	552	550	556	mekuta	True		diagnostic_global_alignment_not_source_emendation
+102	李		2621	チアフ	chiafu	558	556	562	chiofu	False	sub:expected561:source559	diagnostic_global_alignment_not_source_emendation
+103	烈		3525	リオツ	riotsu	564	562	568	reotsu	False	sub:expected565:source563	diagnostic_global_alignment_not_source_emendation
+104	鈞		6874	メエヌ	meenu	570	568	573	meenu	True		diagnostic_global_alignment_not_source_emendation
+105	陳		7115	レオテ	reote	575	573	578	rcote	False	sub:expected576:source574	diagnostic_global_alignment_not_source_emendation
+106	炳		3521	リアツ	riatsu	580	578	584	riatsu	True		diagnostic_global_alignment_not_source_emendation
+107	焜		3540	リコチ	rikochi	586	584	591	rikochi	True		diagnostic_global_alignment_not_source_emendation

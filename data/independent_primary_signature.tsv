@@ -1,0 +1,9 @@
+start	end	raw_source	independent_print_glyph	printed_glyph_code	reencoded_kana	reencoded_roman	prior_direct_worksheet_kana	prior_formula_code	raw_exact	worksheet_formula_exact	exception	source
+545	550	ruasa	蔡	5591	ルアサ	ruasa	ルアサ	5591	True	True		Huguo-Issue5-pdf26-welcome-original.png / 文告14
+550	556	mekuta	鍔	6948	メクタ	mekuta	メクタ	6948	True	True		Huguo-Issue5-pdf26-welcome-original.png / 文告14
+556	562	chiofu	李	2621	チアフ	chiafu	チオフ	2625	False	False	raw chiofu != independently encoded chiafu; no raw correction accepted	Huguo-Issue5-pdf26-welcome-original.png / 文告14
+562	568	reotsu	烈	3525	リオツ	riotsu	レオツ	7125	False	False	raw reotsu != independently encoded riotsu; no raw correction accepted	Huguo-Issue5-pdf26-welcome-original.png / 文告14
+568	573	meenu	鈞	6874	メエヌ	meenu	メエヌ	6874	True	True		Huguo-Issue5-pdf26-welcome-original.png / 文告14
+573	578	rcote	陳	7115	レオテ	reote	レオテ	7115	False	True	raw rcote != independently encoded reote; no raw correction accepted	Huguo-Issue5-pdf26-welcome-original.png / 文告14
+578	584	riatsu	炳	3521	リアツ	riatsu	リアツ	3521	True	True		Huguo-Issue5-pdf26-welcome-original.png / 文告14
+584	591	rikochi	焜	3540	リコチ	rikochi	リコチ	3540	True	True		Huguo-Issue5-pdf26-welcome-original.png / 文告14

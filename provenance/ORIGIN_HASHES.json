@@ -1,0 +1,141 @@
+[
+  {
+    "source_relative": "materials/reading_order.tsv",
+    "publication_path": "data/reading_order.tsv",
+    "sha256": "d17bec03f1d6c8a615a2e3976d87ee90acc5148de20bc798057cbe295ef8ca95",
+    "publication_sha256": "d17bec03f1d6c8a615a2e3976d87ee90acc5148de20bc798057cbe295ef8ca95",
+    "operation": "byte_identical"
+  },
+  {
+    "source_relative": "materials/primary_1916_welcome_telegram.txt",
+    "publication_path": "data/primary_1916_welcome_telegram.txt",
+    "sha256": "ee8bf2356b6b9f993549424507caa300145344985b053f45fdf4c0ad763afa0a",
+    "publication_sha256": "ee8bf2356b6b9f993549424507caa300145344985b053f45fdf4c0ad763afa0a",
+    "operation": "byte_identical"
+  },
+  {
+    "source_relative": "results/primary107_vs_raw591.tsv",
+    "publication_path": "data/primary107_vs_raw591.tsv",
+    "sha256": "4a7c16664fefd6b796e37794858ff251bfbfc092259f3542d5acb00efb4109b1",
+    "publication_sha256": "4a7c16664fefd6b796e37794858ff251bfbfc092259f3542d5acb00efb4109b1",
+    "operation": "byte_identical"
+  },
+  {
+    "source_relative": "results/independent_primary_signature.tsv",
+    "publication_path": "data/independent_primary_signature.tsv",
+    "sha256": "d347f44705a285fae1bb459c6827f98458be213cef23af401d82933412b9fae3",
+    "publication_sha256": "d347f44705a285fae1bb459c6827f98458be213cef23af401d82933412b9fae3",
+    "operation": "byte_identical"
+  },
+  {
+    "source_relative": "results/primary_signature_negative_controls.tsv",
+    "publication_path": "data/primary_signature_negative_controls.tsv",
+    "sha256": "808a7cf76019ddbd433b821256ab06150e92b4a574e139585a15fa247a0453fb",
+    "publication_sha256": "808a7cf76019ddbd433b821256ab06150e92b4a574e139585a15fa247a0453fb",
+    "operation": "byte_identical"
+  },
+  {
+    "source_relative": "results/whole_source_alignment.tsv",
+    "publication_path": "data/whole_source_alignment.tsv",
+    "sha256": "9fb9d8a0508afe7206c95ad7190b6f47088ba8090aa26373d5607edfe3d372b0",
+    "publication_sha256": "9fb9d8a0508afe7206c95ad7190b6f47088ba8090aa26373d5607edfe3d372b0",
+    "operation": "byte_identical"
+  },
+  {
+    "source_relative": "claude-review/phase1/ROMAN_TRANSCRIPTION_FROZEN.tsv",
+    "publication_path": "data/roman_independent_audit.tsv",
+    "sha256": "fea8add18167392e3ba0e0fccebf73b18876b55472bc7bd08775a697430f23a8",
+    "publication_sha256": "fea8add18167392e3ba0e0fccebf73b18876b55472bc7bd08775a697430f23a8",
+    "operation": "byte_identical"
+  },
+  {
+    "source_relative": "claude-review/phase1/KANA_TRANSCRIPTION_FROZEN.tsv",
+    "publication_path": "data/worksheet_kana_independent_audit.tsv",
+    "sha256": "3ee1873856debd0de56a8f00c2c0bba89e270c8d2c6a33f604a6c10d59039fb3",
+    "publication_sha256": "3ee1873856debd0de56a8f00c2c0bba89e270c8d2c6a33f604a6c10d59039fb3",
+    "operation": "byte_identical"
+  },
+  {
+    "source_relative": "claude-review/round4/PREDICTIONS_FROZEN_20261009.json",
+    "publication_path": "data/hypotheses/PREDICTIONS_FROZEN_20261009.json",
+    "sha256": "ccdde0e8d13be171069529573fd6c49723d07ca13f73ebc49605b0d2914e3946",
+    "publication_sha256": "ccdde0e8d13be171069529573fd6c49723d07ca13f73ebc49605b0d2914e3946",
+    "operation": "byte_identical"
+  },
+  {
+    "source_relative": "results/jacar-round4-search-20261009-v1/PAGE_COVERAGE.tsv",
+    "publication_path": "data/round4/PAGE_COVERAGE.tsv",
+    "sha256": "5459e211c9478bf9f0877f2a2f0f8f0700d773bf02424cf96888754dadd5c9f5",
+    "publication_sha256": "5459e211c9478bf9f0877f2a2f0f8f0700d773bf02424cf96888754dadd5c9f5",
+    "operation": "byte_identical"
+  },
+  {
+    "source_relative": "results/jacar-round4-search-20261009-v1/UNIT_COVERAGE.json",
+    "publication_path": "data/round4/UNIT_COVERAGE.json",
+    "sha256": "de0c39479d7b942cf81a27414723e1600685497dadb51f34400e5050105ae759",
+    "publication_sha256": "de0c39479d7b942cf81a27414723e1600685497dadb51f34400e5050105ae759",
+    "operation": "byte_identical"
+  },
+  {
+    "source_relative": "results/jacar-round4-search-20261009-v1/download_manifest.json",
+    "publication_path": "data/round4/download_manifest.json",
+    "sha256": "9d8df592317e99f9ae1b33f6c8372cc36aa84fb28af99196ea1ce5ee2b20e4b1",
+    "publication_sha256": "9d8df592317e99f9ae1b33f6c8372cc36aa84fb28af99196ea1ce5ee2b20e4b1",
+    "operation": "byte_identical"
+  },
+  {
+    "source_relative": "PRIOR_PUBLICATION_AUDIT.md",
+    "sha256": "d65d8caa4b093d072fdce0afe1d2af25da0069c7d28944694fe14b981b83efcb",
+    "operation": "not_distributed; English summary or portable code adapter"
+  },
+  {
+    "source_relative": "PRIMARY_PRINT_IDENTIFICATION.md",
+    "sha256": "fc283f5c7d97349c1418c6ed78c9a9f54d90e6e27e110d68285956b7b49fc3d8",
+    "operation": "not_distributed; English summary or portable code adapter"
+  },
+  {
+    "source_relative": "CURRENT_READING.md",
+    "sha256": "55dafe03264b27ec74093f38b2cdfa48d79d20d8961f805b5585f45bdfefd28a",
+    "operation": "not_distributed; English summary or portable code adapter"
+  },
+  {
+    "source_relative": "CLAUDE_REVIEW_AUDIT_20261009.md",
+    "sha256": "417246c969896dc00d3ba436713e44289eff8777b9668b412dc025be354fddab",
+    "operation": "not_distributed; English summary or portable code adapter"
+  },
+  {
+    "source_relative": "ROUND2_AUDIT_ADDENDUM_20261009_v1.md",
+    "sha256": "3611676775bacc7f1b63fcf948c62e110ccd95772060ec0f8d0a23212c9c8f4a",
+    "operation": "not_distributed; English summary or portable code adapter"
+  },
+  {
+    "source_relative": "results/round3-audit-20261009-v1/ROUND3_AUDIT_AND_DOCUMENT_FINDINGS_v1.md",
+    "sha256": "bc3c4e29db8049c1f9f0935b2354ee6963e6bee4b7d941c3849e765c1e1243f7",
+    "operation": "not_distributed; English summary or portable code adapter"
+  },
+  {
+    "source_relative": "claude-review/round4/ROUND4_RESPONSE_20261009.md",
+    "sha256": "167ad4394448771c1c5d6e7721e3b7fc09aea5a22a00edb7f5cad23e1652e2ac",
+    "operation": "not_distributed; English summary or portable code adapter"
+  },
+  {
+    "source_relative": "results/jacar-round4-search-20261009-v1/ROUND4_BOUNDED_SEARCH_REPORT.md",
+    "sha256": "eeb7f7e8c468fac53573b211312d036ad886af2a50fc88ef19929768b2c5c68e",
+    "operation": "not_distributed; English summary or portable code adapter"
+  },
+  {
+    "source_relative": "code/three_kana_formula.py",
+    "sha256": "5ec0946dbd6dcf6f206cb3d253cb4c1cb7781c7c678bc6766fd54bb502fc808c",
+    "operation": "not_distributed; English summary or portable code adapter"
+  },
+  {
+    "source_relative": "code/primary_print_alignment.py",
+    "sha256": "d93cdf32cfeb79ba080d315aceafe081d05a1ba65df2c56c13414d530f5e6188",
+    "operation": "not_distributed; English summary or portable code adapter"
+  },
+  {
+    "source_relative": "code/verify_primary_signature.py",
+    "sha256": "06e8755676cbb61cc5ac465c40465f1a058c1af98f1bdac80772c9331cb097de",
+    "operation": "not_distributed; English summary or portable code adapter"
+  }
+]

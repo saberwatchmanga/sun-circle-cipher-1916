@@ -1,0 +1,6 @@
+# Direct manual transcription, printed original PDF26 / 文告14.
+# Punctuation removed solely for deterministic comparison; framing text excluded.
+# Target-only header variant and printed 我 are NOT harmonized.
+黃克強先生鑒奉刪電知我公抵日歡躍逾恆堯等碌碌庸才勉起討賊正憂綆短適逢公歸願承不遺俯賜教言首倡共和富有方略各國情勢考察復殷將來內政外交諸賴指導大局所繫惟公圖之唐繼堯岑春煊梁啓超劉顯世陸榮廷龍濟光呂公望蔡鍔李烈鈞陳炳焜
+# The framing printed text subsequently reads 帶等語特聞春煊鈞列馬印.
+# 哿 at raw591-597 is target date-word, not part of this printed quotation.

@@ -1,0 +1,213 @@
+start	end	raw_source	status	worksheet_kana	formula_code	selected_2026_gloss	direct_pencil	pencil_confidence	modern_glyph_for_worksheet_formula	printed_1926_checked_glyph	native_reading_branch	native_branch_kana	native_branch_formula	modern_glyph_for_native_branch	hypothesis_branch_roman	source_e_alternative_formula	image_evidence	notes
+0	6	sokaho	prior_selected_anchor_not_direct_original_audit	ソカホ	7806	黄			黃	黃								p1:1
+6	11	kaeta	prior_selected_anchor_not_direct_original_audit	カエタ	0344	克			克									p1:2
+11	18	rakotsu	source_exact_formula_only_later_glyph_candidate	ラコツ	1730				強									
+18	23	kaata	prior_selected_anchor_not_direct_original_audit	カアタ	0341	先★			先	先								p1:3
+23	28	uichi	prior_selected_anchor_not_direct_original_audit	ウイチ	3932	生			生									p1:4
+28	33	reuho	prior_selected_anchor_not_direct_original_audit	レウホ	7003	釜			鑒	鑒								p1:5
+33	38	haeka	native_image_rereading_separate_branch	ハエタ	1144		奉	high	奉		haeta	ハエタ	1144	奉			OPENING_GAP_ORIGINAL_AUDIT.md	source36 k→t; original Latin row2 col1 reads haeta
+38	43	saeha	direct_original_kana_and_exact_source	サエハ	0444		删	high	删								OPENING_GAP_ORIGINAL_AUDIT.md	sa at row2 col1 foot joins eha row2 col2 head
+43	48	reusa	prior_selected_anchor_not_direct_original_audit	レウサ	7193	電★			電	電								p1:7
+48	54	sukeha	prior_selected_anchor_not_direct_original_audit	スケハ	4249	知			知									p1:8
+54	59	kaase	prior_selected_anchor_not_direct_original_audit	カアセ	0361	公			公									p1:9
+59	64	ikito	prior_selected_anchor_not_direct_original_audit	イキト	2107	抵			抵									p1:10
+64	71	shikonu	prior_selected_anchor_not_direct_original_audit	シコヌ	2480	日★★			日									p1:11
+71	77	nikose	direct_original_kana_and_exact_source	ニコセ	2970				歡	歡							WORKSHEET_OMISSION_AUDIT.md	
+77	83	nekono	direct_original_kana_and_exact_source	ネコノ	6460				躍	躍							WORKSHEET_OMISSION_AUDIT.md	
+83	88	heane	direct_original_kana_and_exact_source	ヘアネ	6661				逾	逾							WORKSHEET_OMISSION_AUDIT.md	
+88	93	waeno	direct_original_kana_and_exact_source	ワエノ	1854				恆	恆							WORKSHEET_OMISSION_AUDIT.md	
+93	98	haahi	direct_original_kana_and_exact_source	ハアヒ	1031				堯	堯							WORKSHEET_OMISSION_AUDIT.md	
+98	105	tsuushi	prior_selected_anchor_not_direct_original_audit	ツウシ	4583	等			等									p1:12
+105	110	suena	direct_original_kana_and_exact_source	スエナ	4294				碌	碌							WORKSHEET_OMISSION_AUDIT.md	
+110	115	suena	direct_original_kana_and_exact_source	スエナ	4294				碌	碌							WORKSHEET_OMISSION_AUDIT.md	
+115	120	raane	prior_selected_anchor_not_direct_original_audit	ラアネ	1661	庸			庸									p1:13
+120	125	ikuni	prior_selected_anchor_not_direct_original_audit	イクニ	2088	才			才	才								p1:14
+125	131	sakite	prior_selected_anchor_not_direct_original_audit	サキテ	0517	勉			勉									p1:15
+131	143	tekassiseina	UNRESOLVED_NO_WORD_INFERRED															
+143	150	teketsu	prior_selected_anchor_not_direct_original_audit	テケツ	6329	賊			賊									p1:18
+150	155	niusu	prior_selected_anchor_not_direct_original_audit	ニウス	2973	正			正									p1:19
+155	161	waishi	direct_original_kana_and_exact_source	ワイシ	1982		慮	medium	慮								P1_GAP155_ORIGINAL_AUDIT.md	
+161	167	fukihi	direct_original_kana_and_exact_source	フキヒ	4837				綆								P1_GAP155_ORIGINAL_AUDIT.md	pencil not confidently read
+167	172	suino	original_roman_worksheet_kana_conflict	スイハ	4242		短	high	眭		suino	スイノ	4252	短			P1_GAP155_ORIGINAL_AUDIT.md	original Latin suino=スイノ4252; worksheet clearly スイハ4242; pencil短 matches former but conflict retained
+172	179	he[e]ni	direct_original_with_explicit_bracket_branch	ヘエニ	6684		適	high	適		heeni	ヘエニ	6684	適			P1_GAP155_ORIGINAL_AUDIT.md	raw he[e]ni preserved; worksheet has two e kana
+179	185	hekawa	direct_original_outside_numeric_domain	ヘカワ													P1_GAP155_ORIGINAL_AUDIT.md	raw hekawa exact; thirdワ outside numeric domain; no numeric repair
+185	190	kaase	prior_selected_anchor_not_direct_original_audit	カアセ	0361	公			公									p1:22
+190	196	neashi	source_exact_formula_only_later_glyph_candidate	ネアシ	6581				辜									
+196	201	eketa	prior_selected_anchor_not_direct_original_audit	エケタ	5749	願			蛉									p1:23
+201	223	ikottoakushokeonakaehe	UNRESOLVED_NO_WORD_INFERRED															
+223	230	tekichi	prior_selected_anchor_not_direct_original_audit	テキチ	6337	賜			賜									p1:25
+230	235	kiano	source_exact_formula_only_later_glyph_candidate	キアノ	2251				提									
+235	239	iusu	source_exact_formula_only_later_glyph_candidate	イウス	2173				挈									
+239	244	kaase	prior_selected_anchor_not_direct_original_audit	カアセ	0361	公			公									p1:26
+244	248	ooha	prior_selected_anchor_not_direct_original_audit	オオハ	7445	首			首	首								p1:27
+248	252	kaoi	UNRESOLVED_NO_WORD_INFERRED															
+252	257	kaese	prior_selected_anchor_not_direct_original_audit	カエセ	0364	共			共									p1:28
+257	263	taochi	source_exact_formula_original_kana_only_partially_visible	タ…	0735		和	medium_partial_layout	和						taochi		P1_TERMINAL_LAYOUT.md	conditional_only_not_verified_numeric_coverage
+263	293	niaushishikeshisiolukosetanuki	UNRESOLVED_NO_WORD_INFERRED															
+293	300	nakutta	one_duplicate_t_deletion_hypothesis_not_accepted_source_change	ナク + タ?	0948		國	explicit_original_question_mark	國						nakuta		P1_TERMINAL_LAYOUT.md	conditional_only_not_verified_numeric_coverage
+300	306	wakato	prior_selected_anchor_not_direct_original_audit	ワカト	1906	情			情	情								p2:1
+306	313	sakutsu	prior_selected_anchor_not_direct_original_audit	サクツ	0528	勢			勢									p2:2
+313	318	muimu	UNRESOLVED_NO_WORD_INFERRED															
+318	325	chikani	prior_selected_anchor_not_direct_original_audit	チカニ	2686	査			查									p2:4
+325	342	rakuewhikehoyaike	UNRESOLVED_NO_WORD_INFERRED															
+342	346	aasu	prior_selected_anchor_not_direct_original_audit	アアス	0171	来			來									p2:6
+346	351	kaoso	prior_selected_anchor_not_direct_original_audit	カオソ	0355	内			內									p2:7
+351	357	kikusa	prior_selected_anchor_not_direct_original_audit	キクサ	2398	政			政									p2:8
+357	371	wakteaenuseosu	UNRESOLVED_NO_WORD_INFERRED															
+371	376	teaso	prior_selected_anchor_not_direct_original_audit	テアソ	6351	頼			賴									p2:10
+376	380	iisu	source_exact_formula_only_later_glyph_candidate	イイス	2172				指									
+380	386	yakuhe	prior_selected_anchor_not_direct_original_audit	ヤクヘ	1418	導			導									p2:11
+386	393	haketsn	UNRESOLVED_NO_WORD_INFERRED															
+393	398	yaeha	prior_selected_anchor_not_direct_original_audit	ヤエハ	1444	局			局									p2:13
+398	403	ikanu	source_exact_formula_only_later_glyph_candidate	イカヌ	2076				所									
+403	408	fuata	source_exact_formula_only_later_glyph_candidate	フアタ	4941				繫									
+408	414	wakete	prior_selected_anchor_not_direct_original_audit	ワケテ	1919	惟			惟									p2:14
+414	419	kaase	prior_selected_anchor_not_direct_original_audit	カアセ	0361	公			公									p2:15
+419	425	nakaso	source_exact_formula_only_later_glyph_candidate	ナカソ	0956				圖									
+425	430	akihi	prior_selected_anchor_not_direct_original_audit	アキヒ	0037	之			之									p2:16
+430	436	taaski	source_worksheet_conflict_not_repaired	タアシ	0781	庸	唐	high	唐		taaski	タア[PARTIAL]					materials/zoom-evidence/worksheet-p20-p2-gap430-original.png	434:k/h; worksheet Roman taashi; native branch 
+436	442	fuketa	exact_source_and_original_numeric	フケタ	4949			unread	繼		fuketa	フケタ	4949	繼			materials/zoom-evidence/worksheet-p20-p2-gap430-original.png	; worksheet Roman fuketa; native branch 
+442	447	haahi	exact_source_and_original_numeric	ハアヒ	1031		堯	high	堯	堯	haahi	ハアヒ	1031	堯			materials/zoom-evidence/worksheet-p20-p2-gap430-original.png	; worksheet Roman haahi; native branch 
+447	452	yakuu	exact_source_and_original_kana_outside_formula	ヤクウ				question_mark_at_ク			yakuu	ヤクウ					materials/zoom-evidence/worksheet-p20-p2-gap430-original.png	; worksheet Roman yakuu; native branch 
+452	458	shiuko	source_worksheet_conflict_not_repaired	シエト	2504		春	high	春		shiuto	シウト	2503	映			materials/zoom-evidence/worksheet-p20-p2-gap430-original.png	455:u/e | 456:k/t; worksheet Roman shieto; native branch 456:k>t
+458	463	riasa	exact_source_and_original_numeric	リアサ	3591			unread	燂		riasa	リアサ	3591	燂			materials/zoom-evidence/worksheet-p20-p2-gap430-original.png	; worksheet Roman riasa; native branch 
+463	470	ckiuchi	source_worksheet_conflict_not_repaired	チウチ	2733	梁	梁	high	梁	梁	chiuchi	チウチ	2733	梁			materials/zoom-evidence/worksheet-p20-p2-gap430-original.png	464:k/h; worksheet Roman chiuchi; native branch 464:k>h
+470	476	takasa	prior_selected_anchor_not_direct_original_audit	タカサ	0796	啓			啓									p2:19
+476	483	tekeshi	prior_selected_anchor_not_direct_original_audit	テケシ	6389	超			超									p2:20
+483	488	saana	prior_selected_anchor_not_direct_original_audit	サアナ	0491	劉			劉									p2:21
+488	493	ekeso	prior_selected_anchor_not_direct_original_audit	エケソ	5759	顕			蛭									p2:22
+493	496	aue	UNRESOLVED_NO_WORD_INFERRED															
+496	502	rekote	prior_selected_anchor_not_direct_original_audit	レコテ	7120	陸			陸									p2:24
+502	508	nikihi	prior_selected_anchor_not_direct_original_audit	ニキヒ	2837	栄			榮									p2:25
+508	513	raena	prior_selected_anchor_not_direct_original_audit	ラエナ	1694	廷			廷									p2:26
+513	533	sounariehakaikataite	UNRESOLVED_NO_WORD_INFERRED															
+533	538	kaase	prior_selected_anchor_not_direct_original_audit	カアセ	0361	公			公									p4:2
+538	545	shikusa	prior_selected_anchor_not_direct_original_audit	シクサ	2598	望			望									p4:3
+545	550	ruasa	exact_unedited_Roman_and_direct_original_worksheet	ルアサ	5591		蔡	high	蔡								materials/zoom-evidence/worksheet-p21-p4-eight-group-gap-original.png	worksheet Roman ruasa
+550	556	mekuta	exact_unedited_Roman_and_direct_original_worksheet	メクタ	6948		鍔	medium	鍔								materials/zoom-evidence/worksheet-p21-p4-eight-group-gap-original.png	worksheet Roman mekuta
+556	562	chiofu	exact_unedited_Roman_and_direct_original_worksheet	チオフ	2625			unread	村								materials/zoom-evidence/worksheet-p21-p4-eight-group-gap-original.png	worksheet Roman chiofu
+562	568	reotsu	exact_unedited_Roman_and_direct_original_worksheet	レオツ	7125			unread	隄								materials/zoom-evidence/worksheet-p21-p4-eight-group-gap-original.png	worksheet Roman reotsu
+568	573	meenu	exact_unedited_Roman_and_direct_original_worksheet	メエヌ	6874			unread	鈞								materials/zoom-evidence/worksheet-p21-p4-eight-group-gap-original.png	worksheet Roman meenu
+573	578	rcote	one_letter_conflict_at_source_574_c_vs_worksheet_e	レオテ	7115		陳	high	陳								materials/zoom-evidence/worksheet-p21-p4-eight-group-gap-original.png	worksheet Roman reote
+578	584	riatsu	exact_unedited_Roman_and_direct_original_worksheet	リアツ	3521		炳	medium	炳								materials/zoom-evidence/worksheet-p21-p4-eight-group-gap-original.png	worksheet Roman riatsu
+584	591	rikochi	exact_unedited_Roman_and_direct_original_worksheet	リコチ	3540		焜	medium	焜								materials/zoom-evidence/worksheet-p21-p4-eight-group-gap-original.png	worksheet Roman rikochi
+591	597	takasu	prior_selected_anchor_not_direct_original_audit	タカス	0776	哿			哿									p4:4
+597	602	kaase	prior_selected_anchor_not_direct_original_audit	カアセ	0361	公			公									p4:5
+602	607	ikito	prior_selected_anchor_not_direct_original_audit	イキト	2107	抵			抵									p4:6
+607	614	shikonu	prior_selected_anchor_not_direct_original_audit	シコヌ	2480	日			日									p4:7
+614	619	naufu	source_exact_formula_only_later_glyph_candidate	ナウフ	0823				喜									
+619	625	ukutsu	source_exact_formula_only_later_glyph_candidate	ウクツ	3928				甚									
+625	632	mikishi	source_exact_formula_only_later_glyph_candidate	ミキシ	3387				潤									
+632	638	neechi	prior_selected_anchor_not_direct_original_audit	ネエチ	6534	輔			輔									p4:8
+638	643	nashi	UNRESOLVED_NO_WORD_INFERRED															
+643	649	takito	prior_selected_anchor_not_direct_original_audit	タキト	0707	告			告									p4:9
+649	654	kaase	prior_selected_anchor_not_direct_original_audit	カアセ	0361	公			公									p4:10
+654	659	heiho	prior_selected_anchor_not_direct_original_audit	ヘイホ	6602	近			近									p4:11
+659	665	rakuta	prior_selected_anchor_not_direct_original_audit	ラクタ	1748	形			形									p4:12
+665	670	akoto	prior_selected_anchor_not_direct_original_audit	アコト	0110	以			以									p4:13
+670	676	maseso	UNRESOLVED_NO_WORD_INFERRED															
+676	681	heano	prior_selected_anchor_not_direct_original_audit	ヘアノ	6651	進			進	進								p4:14
+681	687	kekini	prior_selected_anchor_not_direct_original_audit	ケキニ	5887	行			行	行								p4:15
+687	693	shiono	prior_selected_anchor_not_direct_original_audit	シオノ	2455	方			方									p4:16
+693	698	ukose	prior_selected_anchor_not_direct_original_audit	ウコセ	3970	略			略									p4:17
+698	703	neate	prior_selected_anchor_not_direct_original_audit	ネアテ	6511	軍			軍									p4:18
+703	709	sautsu	direct_original_kana_and_exact_source	サウツ	0523		務?		務	務							WORKSHEET_P4_UNSELECTED_AUDIT.md	
+709	715	rekuto	prior_selected_anchor_not_direct_original_audit	レクト	7108	院			院									p4:19
+715	720	kaenu	direct_original_kana_and_exact_source	カエヌ	0274				𠉰								WORKSHEET_P4_UNSELECTED_AUDIT.md	
+720	727	kikochi	prior_selected_anchor_not_direct_original_audit	キコチ	2340	擁			擁									p4:20
+727	731	eate	prior_selected_anchor_not_direct_original_audit	エアテ	5711	虚			虛	虛								p4:21
+731	736	taini	prior_selected_anchor_not_direct_original_audit	タイニ	0682	名			名									p4:22
+736	741	maaho	prior_selected_anchor_not_direct_original_audit	マアホ	1201	委			委	委								p4:23
+741	746	taose	prior_selected_anchor_not_direct_original_audit	タオセ	0765	員			員									p4:24
+746	751	akuto	prior_selected_anchor_not_direct_original_audit	アクト	0108	代			代									p4:25
+751	756	keuto	prior_selected_anchor_not_direct_original_audit	ケウト	5903	表			表									p4:26
+756	763	tsuushi	prior_selected_anchor_not_direct_original_audit	ツウシ	4583	等			等									p4:27
+763	770	shioshi	direct_original_kana_and_exact_source	シオシ	2585				會	會							WORKSHEET_P4_UNSELECTED_AUDIT.md	
+770	775	kuoto	prior_selected_anchor_not_direct_original_audit	クオト	4105	皆			皆	皆								p4:28
+775	782	chikiho	prior_selected_anchor_not_direct_original_audit	チキホ	2607	未			未	未								p4:29
+782	788	fukeho	prior_selected_anchor_not_direct_original_audit	フケホ	4809	組			組									p4:30
+788	795	fukotsu	prior_selected_anchor_not_direct_original_audit	フコツ	4930	織			織	織								p4:31
+795	802	sakushi	prior_selected_anchor_not_direct_original_audit	サクシ	0588	協			協									p4:32
+802	809	chiochi	source_exact_formula_only_later_glyph_candidate	チオチ	2735				梆	梆								
+809	814	neate	prior_selected_anchor_not_direct_original_audit	ネアテ	6511	軍			軍									p3:1
+814	820	shieni	prior_selected_anchor_not_direct_original_audit	シエニ	2484	旬			旬									p3:2
+820	825	kaoso	prior_selected_anchor_not_direct_original_audit	カオソ	0355	内			內									p3:3
+825	831	takune	prior_selected_anchor_not_direct_original_audit	タクネ	0668	可			可									p3:4
+831	835	soan	prior_selected_anchor_not_direct_original_audit	ソアン		齎/齋												p3:5
+835	840	tauhe	prior_selected_anchor_not_direct_original_audit	タウヘ	0613	即			卽									p3:6
+840	849	notaekona	UNRESOLVED_NO_WORD_INFERRED															
+849	854	kaeso	prior_selected_anchor_not_direct_original_audit	カエソ	0354	入			入									p3:8
+854	858	tesu	UNRESOLVED_NO_WORD_INFERRED															
+858	863	ekahi	prior_selected_anchor_not_direct_original_audit	エカヒ	5636	非			薊									p3:9
+863	868	kauho	prior_selected_anchor_not_direct_original_audit	カウホ	0203	俣			俟									p3:10
+868	873	raahi	prior_selected_anchor_not_direct_original_audit	ラアヒ	1631	幹			幹									p3:11
+873	878	tathe	UNRESOLVED_NO_WORD_INFERRED															
+878	885	sakushi	prior_selected_anchor_not_direct_original_audit	サクシ	0588	協			協									p3:12
+885	893	chitochi	prior_selected_anchor_not_direct_original_audit	チトチ		和												p3:13
+893	898	caose	UNRESOLVED_NO_WORD_INFERRED															
+898	903	kaeso	prior_selected_anchor_not_direct_original_audit	カエソ	0354	入			入									p3:14
+903	909	mikanu	prior_selected_anchor_not_direct_original_audit	ミカヌ	3276	湘			湘	湘								p3:15
+909	915	teashi	source_exact_formula_only_later_glyph_candidate	テアシ	6381				钕									
+915	921	takoto	prior_selected_anchor_not_direct_original_audit	タコト	0710	吾			吾									p3:16
+921	926	akani	prior_selected_anchor_not_direct_original_audit	アカニ	0086	人			人									p3:17
+926	932	watuno	UNRESOLVED_NO_WORD_INFERRED															
+932	938	reashi	prior_selected_anchor_not_direct_original_audit	レアシ	7181	難			難									p3:18
+938	944	kutena	UNRESOLVED_NO_WORD_INFERRED															
+944	950	sekano	prior_selected_anchor_not_direct_original_audit	セカノ	6056	言			言									p3:19
+950	955	okuno	source_exact_formula_only_later_glyph_candidate	オクノ	7458				馮									
+955	961	hikuho	source_exact_formula_only_later_glyph_candidate	ヒクホ	3008				段									
+961	967	sekuta	prior_selected_anchor_not_direct_original_audit	セクタ	6148	調			調									p3:20
+967	972	kaono	source_exact_formula_only_later_glyph_candidate	カオノ	0255				停									
+972	977	niesu	prior_selected_anchor_not_direct_original_audit	ニエス	2974	此			此									p3:21
+977	982	reohi	prior_selected_anchor_not_direct_original_audit	レオヒ	7035	間			間									p3:22
+982	989	shekuta	original_roman_worksheet_kana_conflict	シクタ	2548		暫	medium	暫								P3_GAP982_ORIGINAL_AUDIT.md	raw shekuta vs worksheet shikuta; original vowel a/e uncertain; no correction accepted
+989	995	fukesa	direct_original_kana_and_exact_source	フケサ	4999		置	high	置								P3_GAP982_ORIGINAL_AUDIT.md	
+995	1000	akuso	direct_original_kana_and_exact_source	アクソ	0158				佺								P3_GAP982_ORIGINAL_AUDIT.md	original worksheet pencil crossed out/not read
+1000	1005	ukoho	prior_selected_anchor_not_direct_original_audit	ウコホ	3810	理			理									p3:23
+1005	1011	takehi	prior_selected_anchor_not_direct_original_audit	タケヒ	0639	参			參									p3:24
+1011	1018	sekoshi	source_exact_formula_only_later_glyph_candidate	セコシ	6190				謇									
+1018	1023	akino	prior_selected_anchor_not_direct_original_audit	アキノ	0057	事			事									p3:26
+1023	1028	miuna	prior_selected_anchor_not_direct_original_audit	ミウナ	3293	源			源									p3:27
+1028	1033	yauhe	prior_selected_anchor_not_direct_original_audit	ヤウヘ	1413	専			專									p3:28
+1033	1038	akite	prior_selected_anchor_not_direct_original_audit	アキテ	0117	任			任									p3:29
+1038	1043	akihi	direct_original_crosspage_exact	アキヒ	0037				之		akihi						worksheet-p21-p3-terminal-original.png | worksheet-p22-p5-opening-original.png	p3_terminal_ア_plus_p5_initial_キヒ
+1043	1050	ekat[o]	direct_original_crosspage_join_with_explicit_bracket_branch	エカト	5706				虎		ekato						worksheet-p22-p5-opening-original.png	bracketed_o_supported_by_p5_ト
+1050	1055	akite	direct_original_crosspage_exact	アキテ	0117		任		任		akite						worksheet-p22-p5-opening-original.png	p5_original_direct
+1055	1061	tsuesu	direct_original_crosspage_exact	ツエス	4574				第		tsuesu						worksheet-p22-p5-opening-original.png	p5_original_direct
+1061	1067	naechi	prior_selected_anchor_not_direct_original_audit	ナエチ	0934	四			四									p5:1
+1067	1073	yakisu	prior_selected_anchor_not_direct_original_audit	ヤキス	1577	師			巾									p5:2
+1073	1078	reifu	prior_selected_anchor_not_direct_original_audit	レイフ	7022	長			長									p5:3
+1078	1083	kiisa	prior_selected_anchor_not_direct_original_audit	キイサ	2392	収			收									p5:4
+1083	1088	reise	prior_selected_anchor_not_direct_original_audit	レイセ	7162	集			集									p5:5
+1088	1097	yunikeiso	UNRESOLVED_NO_WORD_INFERRED															
+1097	1103	nukase	direct_original_kana_and_exact_source	ヌカセ	4766		約		約								materials/zoom-evidence/worksheet-p22-p5-column2-gap-original.png	
+1103	1108	ruito	prior_selected_anchor_not_direct_original_audit	ルイト	5502	葛			萬									p5:8
+1108	1113	akanu	prior_selected_anchor_not_direct_original_audit	アカヌ	0076	亦			亦									p5:9
+1113	1118	tauhe	prior_selected_anchor_not_direct_original_audit	タウヘ	0613	即			卽									p5:10
+1118	1124	sakifu	prior_selected_anchor_not_direct_original_audit	サキフ	0427	出			出									p5:11
+1124	1129	teasu	direct_original_kana_and_exact_source	テアス	6371				贑								materials/zoom-evidence/worksheet-p22-p5-gaps-original.png	
+1129	1135	nikuhe	direct_original_kana_and_exact_source	ニクヘ	2818				楷								materials/zoom-evidence/worksheet-p22-p5-gaps-original.png	
+1135	1141	sekuta	prior_selected_anchor_not_direct_original_audit	セクタ	6148	調			調									p5:12
+1141	1148	nukitsu	direct_original_kana_and_exact_source	ヌキツ	4727				粤								materials/zoom-evidence/worksheet-p22-p5-gaps-original.png	
+1148	1152	aifu	prior_selected_anchor_not_direct_original_audit	アイフ	0022	中			中									p5:13
+1152	1158	mikanu	prior_selected_anchor_not_direct_original_audit	ミカヌ	3276	湘			湘	湘								p5:14
+1158	1163	neate	source_exact_formula_only_later_glyph_candidate	ネアテ	6511				軍									
+1163	1168	tauhe	prior_selected_anchor_not_direct_original_audit	タウヘ	0613	即			卽									p5:15
+1168	1173	satef	UNRESOLVED_NO_WORD_INFERRED															
+1173	1179	mikanu	exact_source_and_original_worksheet_not_independent_sender_plaintext	ミカヌ	3276		湘	medium	湘	湘							materials/zoom-evidence/worksheet-p22-p5-gaps-original.png	
+1179	1185	mekano	exact_source_and_original_worksheet_not_independent_sender_plaintext	メカノ	6856		釗	medium	釗								materials/zoom-evidence/worksheet-p22-p5-gaps-original.png	
+1185	1190	kiise	prior_selected_anchor_not_direct_original_audit	キイセ	2362	擬			擬									p5:16
+1190	1194	aasu	source_exact_formula_only_later_glyph_candidate	アアス	0171				來									
+1194	1201	chikehi	prior_selected_anchor_not_direct_original_audit	チケヒ	2639	東			東									p5:18
+1201	1207	yekohi	prior_selected_anchor_not_direct_original_audit	ヱコヒ	7240	面			面									p5:19
+1207	1212	heanu	prior_selected_anchor_not_direct_original_audit	ヘアヌ	6671	達			達									p5:20
+1212	1217	heiho	prior_selected_anchor_not_direct_original_audit	ヘイホ	6602	近			近									p5:21
+1217	1226	wakata[e]	original_correction_and_bracket_conflict	ワカト	1906	情	情	medium	情	情							P5_TERMINAL_ALIGNMENT.md	wakata[e] retained; original superscript correction not normalized
+1226	1231	ekato	direct_original_kana_and_exact_source	エカト	5706		根?	low	虎								P5_TERMINAL_ALIGNMENT.md	pencil uncertain
+1231	1237	minuna	native_image_rereading_separate_branch	ミウナ	3293		源	high	源		miuna	ミウナ	3293	源			P5_TERMINAL_ALIGNMENT.md	source1233 n→u; original miuna; first two kana at previous column foot
+1237	1243	nukuhe	direct_original_kana_and_exact_source	ヌクヘ	4618				箠								P5_TERMINAL_ALIGNMENT.md	group crosses column head; no pencil value read
+1243	1249	nukufu	native_image_rereading_separate_branch	ムクフ	5028		群	high	羣		mukufu	ムクフ	5028	羣			P5_TERMINAL_ALIGNMENT.md	source1243 n→m; original hemukufunu row6 col1
+1249	1254	nuata	direct_original_kana_and_exact_source	ヌアタ	4741				糕								P5_TERMINAL_ALIGNMENT.md	pencil not confidently read
+1254	1260	mekano	direct_original_kana_and_exact_source	メカノ	6856		釗	medium	釗								P5_TERMINAL_ALIGNMENT.md	pencil consistent with earlier repeated group
+1260	1266	takasn	native_image_rereading_separate_branch_medium	タカス	0776				哿		takasu	タカス	0776	哿			P5_TERMINAL_ALIGNMENT.md	source1265 n→u plausible; medium confidence; pencil not confidently read
+1266	1271	owari	direct_original_non_numeric_terminal	オワリ													P5_TERMINAL_ALIGNMENT.md	literal owari; separate underlined group; numeric third-kana domain excludes リ

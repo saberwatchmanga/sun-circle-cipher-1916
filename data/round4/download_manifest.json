@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://www.jacar.archives.go.jp/content/item/aj12/C200138684900/raw/B03050089000.b10083.1-0583.00000006.pdf",
+    "status": 200,
+    "path": "B03050089000.pdf",
+    "bytes": 12651934,
+    "sha256": "21a2b1a5523d11039b3895842ef505c1e33e69d283154ed6445c12943010c9e6"
+  },
+  {
+    "url": "https://www.jacar.archives.go.jp/content/item/aj12/C200138752600/raw/B03050089200.b10083.1-0583.00000118.pdf",
+    "status": 200,
+    "path": "B03050089200.pdf",
+    "bytes": 8546645,
+    "sha256": "1c14aa17fe5ecbd687da3297f80efc4ad02a9473bee909907c1c212ac16d216e"
+  },
+  {
+    "url": "https://www.jacar.archives.go.jp/content/item/aj12/C200138752700/raw/B03050089300.b10083.1-0583.00000174.pdf",
+    "status": 200,
+    "path": "B03050089300.pdf",
+    "bytes": 4738987,
+    "sha256": "1fbf9a153273b0debccdf10ad2cd17983360502177773cfab499355162bca497"
+  },
+  {
+    "url": "https://www.jacar.archives.go.jp/content/item/aj12/C200138752800/raw/B03050089400.b10083.1-0583.00000211.pdf",
+    "status": 200,
+    "path": "B03050089400.pdf",
+    "bytes": 6115145,
+    "sha256": "9d8e497c756e7b2389e4a637362f56767727d0b097fa96a89e20d756fc950808"
+  }
+]

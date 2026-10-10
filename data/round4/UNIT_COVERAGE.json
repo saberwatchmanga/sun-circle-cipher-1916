@@ -1,0 +1,52 @@
+[
+  {
+    "archive_id": "B03050089000",
+    "pages": 54,
+    "film_start": 6,
+    "catalogue_start": "1916-04-29",
+    "catalogue_end": "1916-05-22",
+    "available": true,
+    "contact_scan_complete": true,
+    "all_telegram_dates_transcribed": false
+  },
+  {
+    "archive_id": "B03050089100",
+    "pages": 58,
+    "film_start": 60,
+    "catalogue_start": "1916-05-22",
+    "catalogue_end": "1916-05-31",
+    "available": true,
+    "contact_scan_complete": true,
+    "all_telegram_dates_transcribed": false
+  },
+  {
+    "archive_id": "B03050089200",
+    "pages": 56,
+    "film_start": 118,
+    "catalogue_start": "1916-06-02",
+    "catalogue_end": "1916-06-09",
+    "available": true,
+    "contact_scan_complete": true,
+    "all_telegram_dates_transcribed": false
+  },
+  {
+    "archive_id": "B03050089300",
+    "pages": 37,
+    "film_start": 174,
+    "catalogue_start": "1916-06-12",
+    "catalogue_end": "1916-06-13",
+    "available": true,
+    "contact_scan_complete": true,
+    "all_telegram_dates_transcribed": false
+  },
+  {
+    "archive_id": "B03050089400",
+    "pages": 54,
+    "film_start": 211,
+    "catalogue_start": "1916-06-14",
+    "catalogue_end": "1916-06-17",
+    "available": true,
+    "contact_scan_complete": true,
+    "all_telegram_dates_transcribed": false
+  }
+]

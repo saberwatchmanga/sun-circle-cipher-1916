@@ -1,0 +1,127 @@
+sequence	index	pdf_page	section	column	row	source_group	literal_length	status	prior_public_group	evidence
+1	1	17	1	1	1	sokahokaet	10	visually_consistent_guided	sokahokaet	Full-height image comparison; group-level, not blind transcription
+2	7	17	1	2	1	arakotsuka	10	visually_consistent_guided	arakotsuka	Full-height image comparison; group-level, not blind transcription
+3	13	17	1	3	1	atauichire	10	visually_consistent_guided	atauichire	Full-height image comparison; group-level, not blind transcription
+4	2	17	1	1	2	uhohaekasa	10	visually_consistent_guided	uhohaekasa	Full-height image comparison; group-level, not blind transcription
+5	8	17	1	2	2	ehareusasu	10	visually_consistent_guided	ehareusasu	Full-height image comparison; group-level, not blind transcription
+6	14	17	1	3	2	kehakaasei	10	visually_consistent_guided	kehakaasei	Full-height image comparison; group-level, not blind transcription
+7	3	17	1	1	3	kitoshikon	10	visually_consistent_guided	kitoshikon	Full-height image comparison; group-level, not blind transcription
+8	9	17	1	2	3	unikosenek	10	visually_consistent_guided	unikosenek	Full-height image comparison; group-level, not blind transcription
+9	15	17	1	3	3	onoheanewa	10	visually_consistent_guided	onoheanewa	Full-height image comparison; group-level, not blind transcription
+10	4	17	1	1	4	enohaahits	10	visually_consistent_guided	enohaahits	Full-height image comparison; group-level, not blind transcription
+11	10	17	1	2	4	uushisuena	10	visually_consistent_guided	uushisuena	Full-height image comparison; group-level, not blind transcription
+12	16	17	1	3	4	suenaraane	10	visually_consistent_guided	suenaraane	Full-height image comparison; group-level, not blind transcription
+13	5	17	1	1	5	ikunisakit	10	visually_consistent_guided	ikunisakit	Full-height image comparison; group-level, not blind transcription
+14	11	17	1	2	5	etekassise	10	visually_consistent_guided	etekassise	Full-height image comparison; group-level, not blind transcription
+15	17	17	1	3	5	inateketsu	10	visually_consistent_guided	inateketsu	Full-height image comparison; group-level, not blind transcription
+16	6	17	1	1	6	niusuwaish	10	visually_consistent_guided	niusuwaish	Full-height image comparison; group-level, not blind transcription
+17	12	17	1	2	6	ifukihisui	10	visually_consistent_guided	ifukihisui	Full-height image comparison; group-level, not blind transcription
+18	18	17	1	3	6	nohe[e]nihek	9	unresolved	nohe[e]nihek	Retain candidates from visual_review.tsv
+19	19	18	2a	1	1	awakaasene	10	visually_consistent_guided	awakaasene	Full-height image comparison; group-level, not blind transcription
+20	29	18	2a	2	1	ashieketai	10	visually_consistent_guided	ashieketai	Full-height image comparison; group-level, not blind transcription
+21	39	18	2a	3	1	kottoakushok	12	visually_read	kottoakushok[?]	p18 g39 native zoom; no extra glyph
+22	20	18	2a	1	2	eonakaehet	10	visually_consistent_guided	eonakaehet	Full-height image comparison; group-level, not blind transcription
+23	30	18	2a	2	2	ekichikian	10	visually_consistent_guided	ekichikian	Full-height image comparison; group-level, not blind transcription
+24	40	18	2a	3	2	oiusukaase	10	visually_consistent_guided	oiusukaase	Full-height image comparison; group-level, not blind transcription
+25	21	18	2a	1	3	oohakaoika	10	visually_consistent_guided	oohakaoika	Full-height image comparison; group-level, not blind transcription
+26	31	18	2a	2	3	esetaochini	11	visually_read	esetaochini	p18 p2a col2 row3; 11 letters
+27	41	18	2a	3	3	aushishike	10	visually_consistent_guided	aushishike	Full-height image comparison; group-level, not blind transcription
+28	22	18	2a	1	4	shisiolu	8	visually_read	shisiolu[?]	p18 g22 native zoom; no terminal glyph
+29	32	18	2a	2	4	kosetanuki	10	visually_consistent_guided	kosetanuki	Full-height image comparison; group-level, not blind transcription
+30	42	18	2a	3	4	nakuttawaka	11	visually_read	nakuttawaka	p18 p2a col3 row4; 11 letters
+31	23	18	2a	1	5	tosakutsum	10	visually_consistent_guided	tosakutsum	Full-height image comparison; group-level, not blind transcription
+32	33	18	2a	2	5	uimuchikan	10	visually_consistent_guided	uimuchikan	Full-height image comparison; group-level, not blind transcription
+33	43	18	2a	3	5	irakuewhik	10	visually_read	irakuewhik[?]	p18 g43 native zoom; final k
+34	24	18	2a	1	6	ehoyaikeaa	10	visually_consistent_guided	ehoyaikeaa	Full-height image comparison; group-level, not blind transcription
+35	34	18	2a	2	6	sukaosokik	10	visually_consistent_guided	sukaosokik	Full-height image comparison; group-level, not blind transcription
+36	44	18	2a	3	6	usawakteae	10	visually_read	usawakteae[?]	p18 g44 native zoom; final e
+37	25	18	2a	1	7	nuseosutea	10	visually_consistent_guided	nuseosutea	Full-height image comparison; group-level, not blind transcription
+38	35	18	2a	2	7	soiisuyaku	10	visually_consistent_guided	soiisuyaku	Full-height image comparison; group-level, not blind transcription
+39	45	18	2a	3	7	hehaketsny	10	visually_read	hehakets[ny?]	p18 g45 native zoom; final ny, medium confidence
+40	26	18	2a	1	8	aehaikanuf	10	visually_consistent_guided	aehaikanuf	Full-height image comparison; group-level, not blind transcription
+41	36	18	2a	2	8	uatawakete	10	visually_consistent_guided	uatawakete	Full-height image comparison; group-level, not blind transcription
+42	46	18	2a	3	8	kaasenakas	10	visually_consistent_guided	kaasenakas	Full-height image comparison; group-level, not blind transcription
+43	27	18	2a	1	9	oakihitaas	10	visually_consistent_guided	oakihitaas	Full-height image comparison; group-level, not blind transcription
+44	37	18	2a	2	9	kifuketaha	10	visually_consistent_guided	kifuketaha	Full-height image comparison; group-level, not blind transcription
+45	47	18	2a	3	9	ahiyakuush	10	visually_consistent_guided	ahiyakuush	Full-height image comparison; group-level, not blind transcription
+46	28	18	2a	1	10	iukoriasac	10	visually_consistent_guided	iukoriasac	Full-height image comparison; group-level, not blind transcription
+47	38	18	2a	2	10	kiuchitaka	10	visually_consistent_guided	kiuchitaka	Full-height image comparison; group-level, not blind transcription
+48	48	18	2a	3	10	satekeshis	10	visually_consistent_guided	satekeshis	Full-height image comparison; group-level, not blind transcription
+49	49	18	2b	1	1	aanaekesoa	10	visually_consistent_guided	aanaekesoa	Full-height image comparison; group-level, not blind transcription
+50	59	18	2b	2	1	uerekoteni	10	visually_consistent_guided	uerekoteni	Full-height image comparison; group-level, not blind transcription
+51	69	18	2b	3	1	kihiraenas	10	visually_consistent_guided	kihiraenas	Full-height image comparison; group-level, not blind transcription
+52	50	18	2b	1	2	ounariehak	10	visually_consistent_guided	ounariehak	Full-height image comparison; group-level, not blind transcription
+53	60	18	2b	2	2	aikataitek	10	visually_consistent_guided	aikataitek	Full-height image comparison; group-level, not blind transcription
+54	70	18	2b	3	2	aaseshikus	10	visually_consistent_guided	aaseshikus	Full-height image comparison; group-level, not blind transcription
+55	51	18	2b	1	3	aruasameku	10	visually_consistent_guided	aruasameku	Full-height image comparison; group-level, not blind transcription
+56	61	18	2b	2	3	tachiofure	10	visually_consistent_guided	tachiofure	Full-height image comparison; group-level, not blind transcription
+57	71	18	2b	3	3	otsumeenur	10	visually_consistent_guided	otsumeenur	Full-height image comparison; group-level, not blind transcription
+58	52	18	2b	1	4	coteriatsu	10	visually_consistent_guided	coteriatsu	Full-height image comparison; group-level, not blind transcription
+59	62	18	2b	2	4	rikochitak	10	visually_consistent_guided	rikochitak	Full-height image comparison; group-level, not blind transcription
+60	72	18	2b	3	4	asukaaseik	10	visually_consistent_guided	asukaaseik	Full-height image comparison; group-level, not blind transcription
+61	53	18	2b	1	5	itoshikonu	10	visually_consistent_guided	itoshikonu	Full-height image comparison; group-level, not blind transcription
+62	63	18	2b	2	5	naufuukuts	10	visually_consistent_guided	naufuukuts	Full-height image comparison; group-level, not blind transcription
+63	73	18	2b	3	5	umikishine	10	visually_consistent_guided	umikishine	Full-height image comparison; group-level, not blind transcription
+64	54	18	2b	1	6	echinashit	10	visually_consistent_guided	echinashit	Full-height image comparison; group-level, not blind transcription
+65	64	18	2b	2	6	akitokaase	10	visually_consistent_guided	akitokaase	Full-height image comparison; group-level, not blind transcription
+66	74	18	2b	3	6	heihorakut	10	visually_consistent_guided	heihorakut	Full-height image comparison; group-level, not blind transcription
+67	55	18	2b	1	7	aakotomases	11	visually_read	aakotomases	p18 p2b col1 row7; 11 letters
+68	65	18	2b	2	7	oheanokeki	10	visually_consistent_guided	oheanokeki	Full-height image comparison; group-level, not blind transcription
+69	75	18	2b	3	7	nishionouk	10	visually_consistent_guided	nishionouk	Full-height image comparison; group-level, not blind transcription
+70	56	18	2b	1	8	oseneatesa	10	visually_consistent_guided	oseneatesa	Full-height image comparison; group-level, not blind transcription
+71	66	18	2b	2	8	utsurekuto	10	visually_consistent_guided	utsurekuto	Full-height image comparison; group-level, not blind transcription
+72	76	18	2b	3	8	kaenukikoc	10	visually_consistent_guided	kaenukikoc	Full-height image comparison; group-level, not blind transcription
+73	57	18	2b	1	9	hieatetain	10	visually_consistent_guided	hieatetain	Full-height image comparison; group-level, not blind transcription
+74	67	18	2b	2	9	imaahotaos	10	visually_consistent_guided	imaahotaos	Full-height image comparison; group-level, not blind transcription
+75	77	18	2b	3	9	eakutokeut	10	visually_consistent_guided	eakutokeut	Full-height image comparison; group-level, not blind transcription
+76	58	18	2b	1	10	otsuushish	10	visually_consistent_guided	otsuushish	Full-height image comparison; group-level, not blind transcription
+77	68	18	2b	2	10	ioshikuoto	10	visually_consistent_guided	ioshikuoto	Full-height image comparison; group-level, not blind transcription
+78	78	18	2b	3	10	chikihofuk	10	visually_consistent_guided	chikihofuk	Full-height image comparison; group-level, not blind transcription
+79	79	19	3a	1	1	ehofukotsu	10	visually_consistent_guided	ehofukotsu	Full-height image comparison; group-level, not blind transcription
+80	89	19	3a	2	1	sakushichi	10	visually_consistent_guided	sakushichi	Full-height image comparison; group-level, not blind transcription
+81	99	19	3a	3	1	ochineates	10	visually_consistent_guided	ochineates	Full-height image comparison; group-level, not blind transcription
+82	80	19	3a	1	2	hienikaoso	10	visually_consistent_guided	hienikaoso	Full-height image comparison; group-level, not blind transcription
+83	90	19	3a	2	2	takunesoan	10	visually_consistent_guided	takunesoan	Full-height image comparison; group-level, not blind transcription
+84	100	19	3a	3	2	tauhenotae	10	visually_consistent_guided	tauhenotae	Full-height image comparison; group-level, not blind transcription
+85	81	19	3a	1	3	konakaesot	10	visually_consistent_guided	konakaesot	Full-height image comparison; group-level, not blind transcription
+86	91	19	3a	2	3	esuekahik	9	visually_read	esuekahik	p19 p3a col2 row3; 9 letters
+87	101	19	3a	3	3	auhoraahit	10	visually_consistent_guided	auhoraahit	Full-height image comparison; group-level, not blind transcription
+88	82	19	3a	1	4	athesakush	10	visually_consistent_guided	athesakush	Full-height image comparison; group-level, not blind transcription
+89	92	19	3a	2	4	ichitochica	11	visually_read	ichitochica	p19 p3a col2 row4; 11 letters
+90	102	19	3a	3	4	osekaesomi	10	visually_consistent_guided	osekaesomi	Full-height image comparison; group-level, not blind transcription
+91	83	19	3a	1	5	kanuteashi	10	visually_consistent_guided	kanuteashi	Full-height image comparison; group-level, not blind transcription
+92	93	19	3a	2	5	takotoakan	10	visually_consistent_guided	takotoakan	Full-height image comparison; group-level, not blind transcription
+93	103	19	3a	3	5	iwatunorea	10	visually_consistent_guided	iwatunorea	Full-height image comparison; group-level, not blind transcription
+94	84	19	3a	1	6	shikutenas	10	visually_consistent_guided	shikutenas	Full-height image comparison; group-level, not blind transcription
+95	94	19	3a	2	6	ekanookuno	10	visually_consistent_guided	ekanookuno	Full-height image comparison; group-level, not blind transcription
+96	104	19	3a	3	6	hikuhoseku	10	visually_consistent_guided	hikuhoseku	Full-height image comparison; group-level, not blind transcription
+97	85	19	3a	1	7	takaononie	10	visually_consistent_guided	takaononie	Full-height image comparison; group-level, not blind transcription
+98	95	19	3a	2	7	sureohishe	10	visually_consistent_guided	sureohishe	Full-height image comparison; group-level, not blind transcription
+99	105	19	3a	3	7	kutafukesa	10	visually_consistent_guided	kutafukesa	Full-height image comparison; group-level, not blind transcription
+100	86	19	3a	1	8	akusoukoho	10	visually_consistent_guided	akusoukoho	Full-height image comparison; group-level, not blind transcription
+101	96	19	3a	2	8	takehiseko	10	visually_consistent_guided	takehiseko	Full-height image comparison; group-level, not blind transcription
+102	106	19	3a	3	8	shiakinomi	10	visually_consistent_guided	shiakinomi	Full-height image comparison; group-level, not blind transcription
+103	87	19	3a	1	9	unayauheak	10	visually_consistent_guided	unayauheak	Full-height image comparison; group-level, not blind transcription
+104	97	19	3a	2	9	iteakihiek	10	visually_consistent_guided	iteakihiek	Full-height image comparison; group-level, not blind transcription
+105	107	19	3a	3	9	at[o]akitets	9	unresolved	at[o]akitets	Retain candidates from visual_review.tsv
+106	88	19	3a	1	10	uesunaechi	10	visually_consistent_guided	uesunaechi	Full-height image comparison; group-level, not blind transcription
+107	98	19	3a	2	10	yakisureif	10	visually_consistent_guided	yakisureif	Full-height image comparison; group-level, not blind transcription
+108	108	19	3a	3	10	ukiisareis	10	visually_consistent_guided	ukiisareis	Full-height image comparison; group-level, not blind transcription
+109	109	19	3b	1	1	eyunikeiso	10	visually_consistent_guided	eyunikeiso	Full-height image comparison; group-level, not blind transcription
+110	115	19	3b	2	1	nukaseruit	10	visually_consistent_guided	nukaseruit	Full-height image comparison; group-level, not blind transcription
+111	121	19	3b	3	1	oakanutauh	10	visually_consistent_guided	oakanutauh	Full-height image comparison; group-level, not blind transcription
+112	110	19	3b	1	2	esakifutea	10	visually_consistent_guided	esakifutea	Full-height image comparison; group-level, not blind transcription
+113	116	19	3b	2	2	sunikuhese	10	visually_consistent_guided	sunikuhese	Full-height image comparison; group-level, not blind transcription
+114	122	19	3b	3	2	kutanukits	10	visually_consistent_guided	kutanukits	Full-height image comparison; group-level, not blind transcription
+115	111	19	3b	1	3	uaifumikan	10	visually_consistent_guided	uaifumikan	Full-height image comparison; group-level, not blind transcription
+116	117	19	3b	2	3	uneatetauh	10	visually_consistent_guided	uneatetauh	Full-height image comparison; group-level, not blind transcription
+117	123	19	3b	3	3	esatefmika	10	visually_consistent_guided	esatefmika	Full-height image comparison; group-level, not blind transcription
+118	112	19	3b	1	4	numekanoki	10	visually_consistent_guided	numekanoki	Full-height image comparison; group-level, not blind transcription
+119	118	19	3b	2	4	iseaasuchi	10	visually_consistent_guided	iseaasuchi	Full-height image comparison; group-level, not blind transcription
+120	124	19	3b	3	4	kehiyekohi	10	visually_consistent_guided	kehiyekohi	Full-height image comparison; group-level, not blind transcription
+121	113	19	3b	1	5	heanuheiho	10	visually_consistent_guided	heanuheiho	Full-height image comparison; group-level, not blind transcription
+122	119	19	3b	2	5	wakata[e]ekat	10	unresolved	wakata[e]ekat	Retain candidates from visual_review.tsv
+123	125	19	3b	3	5	ominunanuku	11	visually_read	ominunanuku	p19 p3b col3 row5; 11 letters
+124	114	19	3b	1	6	henukufunu	10	visually_consistent_guided	henukufunu	Full-height image comparison; group-level, not blind transcription
+125	120	19	3b	2	6	atamekanot	10	visually_consistent_guided	atamekanot	Full-height image comparison; group-level, not blind transcription
+126	126	19	3b	3	6	akasnowari	10	visually_consistent_guided	akasnowari	Full-height image comparison; group-level, not blind transcription

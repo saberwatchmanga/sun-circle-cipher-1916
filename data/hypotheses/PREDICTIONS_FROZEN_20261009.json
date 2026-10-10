@@ -1,0 +1,17 @@
+{
+ "frozen_by": "claude-review round4, 2026-10-09, before any new material is retrieved",
+ "scope": "Any additional intercepted May-June 1916 telegram in the same romaji three-kana code from the Zhaoqing group (林虎/李根源/章士釗 circle) to 黃興, or any second copy (draft, retransmission, printed text) of the 1916-05-20 target.",
+ "P1_signature_letters": {
+   "claim": "If the same people sign with one character each, their codewords are: 虎=エカト(ekato), 源=ミウナ(miuna), 釗=メカノ(mekano), and the signer we place in slot 4 = 羣 ムクフ (mukufu).",
+   "fails_if": "A legible signature block from this group shows the slot-4 person (文羣 or whoever occupies Huang's 4th addressee position) as ケケナ/5899 (衡) or any codeword >=3 letters from mukufu; or 虎/源/釗 appear with different codewords."
+ },
+ "P2_slots_3_5": {
+   "claim": "Slots 3 and 5 of the target (ヌクヘ nukuhe, ヌアタ nuata) are UNRESOLVED: the hypotheses 楷(ニクヘ) and 泰(ヒアタ) need letter changes the image does not show.",
+   "decisive_test": "A second, independent encoding of the same signer list: if it again reads nukuhe/nuata, the 楷/泰 hypotheses fail (the letters were right and these are other names); if it reads nikuhe/hiata, they are confirmed."
+ },
+ "P3_digit_channel": {
+   "claim": "Some slip errors are single-digit errors in the 4-digit Chinese telegraph code made before kana conversion (target examples: 協和 0735 written as 2735 twice; 贑 6371 written as blank code 6381; calibration example in the 107 print: 憂 1992 written as 1982).",
+   "fails_if": "In new material with known plaintext, errors whose letter distance is >=2 but code-digit distance is 1 are no more frequent than among random letter-level corruptions (i.e. no excess of single-digit code errors)."
+ },
+ "route_fails_if": "The intercept series adjacent to the target (逓信省→外務省 secret-received numbers around 秘受5708, 1916-05-15..06-15) contains no further three-kana telegram from this group and no second copy of the 20 May text. Then cipher-internal reasoning on the later part should stop at candidate level."
+}
